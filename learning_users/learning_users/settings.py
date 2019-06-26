@@ -28,7 +28,7 @@ SECRET_KEY = 'w)pyqsb@j^786r($fogd$7z0pj3%26&haia+_lj9=6qio(cg22'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['raush123.pythonanywhere.com']
 
 
 # Application definition
